@@ -22,13 +22,13 @@
 CONSOLE_LAUNCHER_JAR_ROOT=./target/lib
 echo CONSOLE_LAUNCHER_JAR_ROOT=${CONSOLE_LAUNCHER_JAR_ROOT}
 #
-CONSOLE_LAUNCHER_JAR=junit-platform-console-standalone-1.0.0-M4.jar
+CONSOLE_LAUNCHER_JAR=junit-platform-console-standalone-1.0.0-RC3.jar
 echo CONSOLE_LAUNCHER_JAR=${CONSOLE_LAUNCHER_JAR}
 #
 LIB_ROOT=./target/lib
 echo LIB_ROOT=${LIB_ROOT}
 #
-DEPENDENT_JAR_CLASSPATH=${LIB_ROOT}/junit-platform-runner-1.0.0-M4.jar:${LIB_ROOT}/commons-lang3-3.5.jar:${LIB_ROOT}/log4j-1.2.17.jar
+DEPENDENT_JAR_CLASSPATH=${LIB_ROOT}/junit-platform-runner-1.0.0-RC3.jar:${LIB_ROOT}/commons-lang3-3.5.jar:${LIB_ROOT}/log4j-1.2.17.jar
 echo DEPENDENT_JAR_CLASSPATH=${DEPENDENT_JAR_CLASSPATH}
 #
 TEST_CLASSES_ROOT=./target/classes:./target/test-classes/
