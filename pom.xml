@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.makotojava.learn</groupId>
   <artifactId>junit-jupiter-archetype</artifactId>
-  <version>0.9.1</version>
+  <version>1.0.0</version>
   <name>Archetype - jupiterArchetype</name>
   <url>http://maven.apache.org</url>
   <packaging>jar</packaging>
